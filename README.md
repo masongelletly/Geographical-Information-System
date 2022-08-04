@@ -1,0 +1,2 @@
+# Geographical-Information-System
+Solo project Geographic Information System, an application that creates its own database from a geographical information records file and allows for the efficient searching of records based upon location or keyword. Involves the implementation and use of a point-region quad tree to hold coordinate information, hash table for efficient record lookup, and buffer pool to not waste time on recently pulled records.
